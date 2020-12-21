@@ -160,6 +160,6 @@ Development of this toolbox has been supported by NIH grants EB001744 and EB0199
 
 Some version of this toolbox has been used in the following publications: 
 
-1. Harkins KD, Does MD. Simulations on the influence of myelin water in diffusion-weighted imaging. Phys Med Biol. 2016;61(13):4729–45. 
-2. Tétreault P, Harkins KD, Baron CA, Stobbe R, Does MD, Beaulieu C. Diffusion time dependency along the human corpus callosum and exploration of age and sex differences as assessed by oscillating gradient spin-echo diffusion tensor imaging. Neuroimage. 2020 Apr;210(January):116533. 
-3. More coming soon...
+1. [Harkins KD, Does MD. Simulations on the influence of myelin water in diffusion-weighted imaging. Phys Med Biol. 2016;61(13):4729–45.](https://doi.org/10.1088/0031-9155/61/13/4729)
+2. [Tétreault P, Harkins KD, Baron CA, Stobbe R, Does MD, Beaulieu C. Diffusion time dependency along the human corpus callosum and exploration of age and sex differences as assessed by oscillating gradient spin-echo diffusion tensor imaging. Neuroimage. 2020 Apr;210(January):116533.](https://doi.org/10.1016/j.neuroimage.2020.116533) 
+3. [Harkins KD, Beaulieu C, Xu J, Gore JC, Does MD A simple estimate of axon size with diffusion MRI. NeuroImage. 2020: 117619](https://doi.org/10.1016/j.neuroimage.2020.117619)
