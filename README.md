@@ -150,7 +150,7 @@ Example simulated signals are shown below:
 
 ## License
 
-This project is licensed under xxxx
+This project is licensed under [GNU GPL v3](LICENSE).
 
 ## Acknowledgments
 
